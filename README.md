@@ -28,7 +28,7 @@ cd fgsm
 
 ## Quick Start
 
-To generate 50 adversarial examples using ImageNet-1k bullfrog images to fool a pretrained ResNet-18 classifier:
+To generate 50 adversarial examples from ImageNet-1k bullfrog images to fool a pretrained ResNet-18 classifier:
 
 ```
 python3 -m utils.trainer --config="./configs/imagenet-1k-bullfrog.toml"
