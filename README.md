@@ -38,6 +38,8 @@ Using the configuration provided at `./configs/imagenet-1k-bullfrog.toml`, we dr
 
 ## Method
 
+[Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
+
 Ian J. Goodfellow, Jonathon Shlens, Christian Szegedy
 
 Google
